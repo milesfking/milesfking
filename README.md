@@ -1,4 +1,4 @@
-### Hi, I'm Miles 👋
+## Hi, I'm Miles 👋
 
 📚 I'm a rising junior at Duke University majoring in Statistics with minors in Math and Computer Science
 <br><br>
@@ -7,8 +7,9 @@
 🌱 I’m currently learning Splunk (SPL) and Tableau
 <br><br>
 📫 You can reach me at miles.king@duke.edu.
+<br><br>
 
-### My experience
+## My experience
 
 💳 I'm currently working as a data science intern at Mastercard out of their technology hub in St. Louis, MO, harnessing Splunk to automate IT operations on the AIOps team
 <br><br>

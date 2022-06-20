@@ -6,7 +6,7 @@
 <br><br>
 🌱 I’m currently learning Splunk (SPL) and Tableau
 <br><br>
-📫 You can reach me at miles.king@duke.edu.
+📫 You can reach me at miles.king@duke.edu or on [LinkedIn]("www.linkedin.com/in/milesfking").
 <br><br>
 
 ## My experience

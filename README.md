@@ -4,7 +4,7 @@
 <br><br>
 💡 I'm interested in applying data science and machine learning principles to fields such as finance, politics, and sports
 <br><br>
-🌱 I’m currently learning Splunk (SPL) and Tableau
+🌱 I’m currently learning about natural language processing (NLP) and Splunk (July 2022)
 <br><br>
 📫 You can reach me at miles.king@duke.edu or on <a href="https://www.linkedin.com/in/milesfking" target="_blank">LinkedIn</a>
 <br><br>

@@ -1,6 +1,6 @@
 ## Hi, I'm Miles 👋
 
-📚 I'm a rising junior at Duke University majoring in Statistics with minors in Math and Computer Science
+📚 I'm a rising junior at Duke University studying Statistics and Math
 <br><br>
 💡 I'm interested in applying data science and machine learning principles to fields such as finance, politics, and sports
 <br><br>
